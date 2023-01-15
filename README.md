@@ -22,9 +22,9 @@
 </p>
 
 <h4 align="center">Deployed On:</h4>
-
+<p align="center">
 <img src="https://img.shields.io/badge/netlify-deployment-green" alt="Netlify" />
-
+</p>
 <br />
 
 ## Screens
