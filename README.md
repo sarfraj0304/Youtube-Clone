@@ -46,7 +46,7 @@
  
 ## Getting Started
 
-This project was built using React, Chakra UI, HTML, CSS and JavaScript. It is an OTT web application and for running on your local environment you should follow these guidelines.
+This project was built using HTML, CSS and JavaScript. It is an OTT web application and for running on your local environment you should follow these guidelines.
 
 ### Prerequisites
 
